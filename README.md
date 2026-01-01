@@ -27,7 +27,7 @@
 [![Join Our Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EXR6rWnd)
 [![Join Our Reddit](https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Zapply/)
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [Behavioral Questions](#behavioral-questions)
   - [Teamwork](#teamwork) — Example 1
@@ -36,12 +36,25 @@
   - [Time Management Skills](#time-management-skills) — Example 8
   - [Communication Skills](#communication-skills) — Example 9
   - [Motivation and Values](#motivation-and-values) — Examples 10–17
+- [Technical Questions](#technical-questions)
+- [Curveball Questions](#curveball-questions)
+  - [Questions that Put Interviewees at Ease](#questions-that-put-interviewees-at-ease) — Example 18
+  - [Questions that Self-Promote](#questions-that-self-promote) — Examples 19–20
+  - [Questions that are Nearly Impossible to Answer](#questions-that-are-nearly-impossible-to-answer) — Example 21
+  - [Questions Regarding Office Situations](#questions-regarding-office-situations) — Examples 22–23
+  - [Personal and Revealing Questions](#personal-and-revealing-questions) — Examples 24–25
+- [End-of-Interview Questions](#end-of-interview-questions)
+  - [Company-Specific Questions](#company-specific-questions)
+  - [Role-Specific Questions](#role-specific-questions)
+  - [Wrap-Up Questions](#wrap-up-questions)
+
+---
 
 ## Behavioral Questions
 
 Interviewers ask behavioral questions to know about your past work and see if you have the skills needed for the job. They assume that your behavior in the past reflects how you will behave in the future. 
 
-To answer these questions, use the CAR (challenge, action, result) approach. When describing a past accomplishment, provide a challenge you were facing, the action you took to solve it, and the end result you achieved. 
+To answer these questions, use the <i>CAR (challenge, action, result)</i> approach. When describing a past accomplishment, provide a challenge you were facing, the action you took to solve it, and the end result you achieved. 
 
 The following behavioral questions may be asked to discern your personality and soft skills, and whether they align with the company’s values:
 
@@ -346,3 +359,270 @@ In case you're unsure of the exact goals the company wants you to accomplish, yo
 ---
 
 The best way to answer any behavioral question is with an anecdote. Given the fact that you're a fresh graduate, you can use examples from your academic or everyday life to answer some of the questions. For example, if you get asked, "How do you handle a challenge?" You can talk about a challenge you addressed during your studies or in your everyday life that was hindering you in some way. It's not necessary to always answer such questions with an example from your working experience.
+
+---
+
+## Technical Questions
+
+Employers are interested in your industry expertise and how you approach problems; their technical questions are designed to identify your thought process. Below are common technical questions for entry-level software engineers:
+
+**🧱 Data Structures & Algorithms**
+- What is the difference between an array and a linked list?
+- What is the difference between a stack and a queue?
+- Explain Big O notation and time complexity.
+- How would you implement a binary search algorithm?
+- Explain what recursion is and give an example.
+- What are hash tables and when would you use them?
+
+**📦 Object-Oriented Programming**
+- What are the four pillars of object-oriented programming?
+- What is the difference between a class and an object?
+- Explain inheritance vs composition.
+
+**🗄️ Databases**
+- What is the difference between SQL and NoSQL databases?
+- What is SQL injection and how do you prevent it?
+- Explain what database indexing is and why it matters.
+
+**🌐 Web Development**
+- Explain the difference between GET and POST requests.
+- What is a RESTful API and what makes it RESTful?
+- What is the difference between synchronous and asynchronous programming?
+- What is JSON and how is it different from XML?
+- Explain CORS and why it exists.
+
+**⚙️ DevOps & Tools**
+- Explain what version control is and why Git is important.
+- What is Docker and why is it useful?
+- Explain what CI/CD is and why it matters.
+- What is the difference between unit testing and integration testing?
+
+**📐 System Design (Basic)**
+- How would you design a URL shortener?
+- What is caching and when would you use it?
+- What is the difference between IaaS, PaaS, and SaaS?
+
+**✍️ Coding Challenges**
+- Write a function to reverse a string.
+- Write a function to check if a string is a palindrome.
+- How would you find the largest number in an array?
+- Write a function to detect a cycle in a linked list.
+
+**🤖 Emerging Topics**
+- What are LLMs and how might you integrate one into an application?
+- What is prompt engineering?
+
+These questions cover fundamental computer science concepts, programming basics, web development principles, DevOps practices, and common coding challenges that entry-level candidates should be familiar with.
+
+You can research the most common technical questions that interviewers ask in your respective industry using Google, Claude, or ChatGPT.
+
+---
+
+## Curveball Questions
+
+Curveball questions are surprise/trick questions that are meant to see how you tackle difficult and sudden situations. They can be tough questions that make you hesitate to share the whole truth out of fear of creating a poor image or they can be utterly random questions meant to throw you off guard. The key point is that you shouldn't be afraid of them. The way to answer curveball questions is to not jump at an answer since interviewers are looking at the quality of your thinking. You want to present the facts in a straightforward fashion and then turn the situation around to demonstrate growth.
+
+For example, one of the most common curveball/tough questions is "What is your weakness?" A common error people make is saying "I don't have any weakness." This is categorically false because we're human. We all have weaknesses. So, saying this implies you don't want to share your true weakness and you're playing defensive. Another common error is presenting a "fake" weakness. It won't be a true weakness. For example, if you say your weakness is being a perfectionist, that raises the question of how? How is being a perfectionist your weakness? If you fail to present your case adequately, then you've failed to answer the question appropriately.
+
+For the specific question shared above, you want to straightforwardly present your weakness. "I struggle with managing my time appropriately which often results in me having to do overtime to complete the task." That's a proper weakness where you've explained how it creates problems for you. Next you must explain how you're working to overcome this weakness. "But I've started keeping track of my time to see at what stage of the process I'm spending the most time on. I've realized I spend too much time doing research because I go a little off-track from the requirements so, I've been keeping an eye there. It's helped me cut down my overtime at least. And I'm not spending an extra 3 hours a day on my job."
+
+Here's another variation to the above question: "Tell us about a time you failed." Your first instinct would naturally be "Oh I don't want to tell them about a time I failed! That'll create a bad impression." But how you structure your answer is what will prevent this from happening. You want to honestly share an example of a time you failed without sugarcoating it, and then how you overcame that situation. What learning occurred as a result? What lessons were learned? That shows that you're someone who isn't afraid of making mistakes but also, most importantly, you see every opportunity as a way to grow.
+
+The way to answer curveball questions is to not jump at an answer since interviewers are looking at the quality of your thinking. Following are a few categories of curveball questions:
+
+---
+
+### Questions that Put Interviewees at Ease
+
+- If you could have one superpower, what would you choose?
+- If you could be a kitchen utensil, what would you be and why?
+- Would you rather fight an elephant-sized pigeon or five hundred pigeon-sized elephants?
+
+These questions are aimed at identifying your creativity. There are no "correct" answers for these types of questions so try to keep your answer creative and possibly tie it with a skill required for the job. They want to gauge your personality and ability to think on the spot. It's not what you answer, but how you answer that counts.
+
+---
+
+#### 📌 Example 18: If you were an animal, what kind of animal would you be and why?
+
+> [!TIP]
+> **Good Answer:** "I think I'd be a duck. They're always calm on the surface, but hustling like crazy to get things done underneath."
+
+> [!WARNING]
+> **Bad Answer:** "Definitely a Tiger. Grrrr…"
+
+---
+
+### Questions that Self-Promote
+
+- Why should we hire you instead of the other people who applied for this job?
+- If you owned this company what would you change?
+- Rate this interview, on a scale from 1 to 10 and explain how you would improve it.
+
+These questions show how you market yourself. It's difficult to promote yourself without suggesting that you feel entitled to the position. To answer these questions, it's best to complement other possible interviewees and showcase strengths that you bring to a team.
+
+Additionally, when you're demonstrating your worth, you want to speak of the skills that the company is looking for in their candidate. Be straightforward about your strengths in relation to the company's needs. For example, if asked, "Why you should be hired?" You can state the three skills you hold that are critical to doing the job well.
+
+The key point to remember is that you don't want to badmouth anybody in your interview – not your past company, peers, boss, or even your fellow candidates. Focus on your positive attributes and strengths and do not shy from your bad sides. Accept them and then tell the interviewer how you're working on improving those weak spots. This demonstrates an honest personality who accepts responsibility, is thoughtful, and is someone who learns from their mistakes. All of these are vital characteristics companies seek from their employees because that's how you gain loyal employees.
+
+---
+
+#### 📌 Example 19: Is it better to be perfect and late, or good and on time?
+
+> [!TIP]
+> **Good Answer:** "I'd rather be good and on time since I believe perfection is not really attainable. And if I'm part of a team, I always prioritize meeting their expectations so I wouldn't want to be late."
+
+> [!WARNING]
+> **Bad Answer:** "I always aim for perfection in every situation."
+
+Besides your skills, these questions are also asked to determine your character. Again, you have to position your answer so that you neither feel entitled nor underqualified. You can try to explain your positive character by relating it to your coworkers.
+
+---
+
+#### 📌 Example 20: Would you rather be liked or feared?
+
+> [!TIP]
+> **Good Answer:** "Well I certainly wouldn't want to be feared. Personally, I think fear is a terrible motivator, and could lead to some uncomfortable situations. Everyone wants to be liked, but it isn't always possible. Sometimes you have to do unpopular things to get the job done. I'd much sooner be respected, but have my co-workers understand that I always do my best for the team as a whole."
+
+> [!WARNING]
+> **Bad Answer:** "I want people to be afraid of how much they like me."
+
+---
+
+### Questions that are Nearly Impossible to Answer
+
+- How many windows are in Manhattan?
+- How would you sell ice cream in Alaska?
+- Suppose you had $2,000 and needed to double it in 24 hours, what would you do?
+
+These kinds of questions are used to determine poise, creativity, and problem-solving. You need to demonstrate adaptability and give in-depth, insightful responses. These questions may have a variety of different answers depending on your problem-solving and thinking ability.
+
+Here's something to remember for such questions. You have to make assumptions and share them with the interviewer. Or you can ask the interviewer, "When you're asking me how to sell ice cream, do you mean ice creams in tubs or popsicles and such?" Get as much clarity as you can and then answer the question.
+
+Another point to remember. You can ask for a short amount of time to think/structure your answer! You can ask for a couple of seconds, 30 seconds, or even a minute. If you need a piece of paper to do some calculations, don't be afraid to ask for it!
+
+And finally, if there's any question that stumps you and you can't figure out an answer in the moment, you can ask "Can we come back to this please? I don't have an answer right now." It takes a lot of strength to admit that you don't have an answer yet. And you're showing that you're not just going to jump into an answer because it's demanded of you. Candidates show that they're thoughtful, organized individuals by following this approach.
+
+---
+
+#### 📌 Example 21: Why are manhole covers round?
+
+> [!TIP]
+> **Good Answer:** "A round manhole cover cannot fall through its circular opening." OR "Circular covers don't need to be rotated or precisely aligned when placing them on the opening." OR "A round manhole cover is easily moved and rolled." OR "It's easier to dig a circular hole."
+
+> [!WARNING]
+> **Bad Answer:** "I've seen manholes with a lot of other shapes. They include square and rectangular ones."
+
+---
+
+### Questions Regarding Office Situations
+
+- Tell me about a time when you disagreed with your coworkers about the next steps in a project.
+- When was the last time you were in a fight with a coworker?
+
+Office situation questions reveal how well you react in certain office conditions. You should convey what role you can play in real-life office situations. You should showcase your ability to resolve coworker issues through your communication, negotiation, and teamwork skills.
+
+Again, the key point is that you don't want to badmouth your peer. That creates a poor image of you and how you are as a team member. So, you want to be very careful about your word selection. Don't say that your coworker was lazy or dismissive. You can say that they were challenging to work with. They were facing some personal difficulties that were leading to personality clashes. Amplify your positive strengths as a team member and talk about the different ways you helped your peers in those tough situations. You want to show that you're a thoughtful person who doesn't disrespect people, values business ethics, and respects their peers.
+
+---
+
+#### 📌 Example 22: How would you handle firing someone?
+
+Through this question, recruiters want to see how you are in a leadership position. How do you handle the tough calls? Do you do it with grace, with bluntness, or do you fumble it? You want to showcase your strengths as a leader – someone who isn't afraid to make tough choices, maintains focus on achievement of the end goal, but also takes all efforts to help someone to prevent this final step.
+
+> [!TIP]
+> **Good Answer:** "As a communicative manager, I would take steps to avoid the point of firing such as corrective action, improvement opportunities, and internal trainings. If firing is the only option, I would convey the information in a calm and empathetic yet factual manner."
+
+> [!WARNING]
+> **Bad Answer:** "I would send them a termination email."
+
+---
+
+#### 📌 Example 23: Have you ever been in a work situation where you were asked to do something unethical?
+
+You need to show your integrity and your ability to analyze and resolve problems when answering this question. Pick a case of ethical conflict that is not ambiguous, subjective, or questionable. Rather, choose a conflict in which ethical lines were clearly drawn. While explaining your case, avoid throwing yourself or someone specific under the bus.
+
+You might feel the urge to say you haven't encountered this type of situation. However, the interviewer may probe further with: "You really have never faced any ethical conflicts in your life?" Clearly, we all have, so it is best to select the simplest example in advance.
+
+> [!TIP]
+> **Good Answer:** "We had a difficult situation in my last job where some information came to light about improper hiring evaluation practices on the part of one of my coworkers. That person asked me not to say anything about it, yet it was a clear violation of our hiring practices, so I reported it to my manager, who then reported it to HR. It was handled per our company policy from that point forward."
+
+> [!WARNING]
+> **Bad Answer:** "It was probably the time that I was accused of over inflating expenses on my expense reporting by someone who wanted my job. She was just trying to make trouble, so I hacked into the expense reporting system and found out that she had some questionable expenses as well. It all kind of blew up and it was a pretty messy situation, but I defended myself. When all was said and done, I did lose my job over it, but I would do it the same all over again."
+
+---
+
+### Personal and Revealing Questions
+
+- What's your favorite website?
+- When have you been happiest in your life?
+- What's the best trip you've ever taken?
+- If you could turn into another person, who would you choose to be?
+
+Personal questions reveal things that you're passionate about. These questions don't have a right or wrong answer so be honest and find a way to align the question with the skills required for the job. Talk about things that excite you as they relate to the job. But you don't have to force this connection either. If it's not connected to the job, it's still fine!
+
+---
+
+#### 📌 Example 24: What gets you up in the morning?
+
+> [!TIP]
+> **Good Answer:** "I'm currently managing the [blank] project." OR "Right now, I'm pursuing the [blank] certification." OR "I'm learning the [blank] skill nowadays. I'm really excited to complete this activity since it complements my previous experience and aligns with the opportunities I'm looking for."
+
+> [!WARNING]
+> **Bad Answer:** "Coffee."
+
+These questions are also used to see how you get out of a difficult situation. You can use humor to break the tension while reassuring your value.
+
+---
+
+#### 📌 Example 25: Every resume has one lie in it. What's yours?
+
+> [!TIP]
+> **Good Answer:** "OK, so 'active lifestyle' may have been a bit of a stretch. I do go and sit in the sauna in my gym from time-to-time, if that counts? On a serious note though, I don't believe there are any lies on my resume. I believe integrity is very important and that starts with your resume."
+
+> [!WARNING]
+> **Bad Answer:** "I don't have any lies on the resume." OR "There might be one or two inaccuracies."
+
+---
+
+## End-of-Interview Questions
+
+At the end of an interview, candidates are typically asked where do they see themselves in one, five, or ten years. You want to give a specific answer instead of a vague one like, "I would like to work in a company where I can use my strengths to drive growth and grow my career." That doesn't tell the recruiter anything specific about your goals or what you've got planned for your career path.
+
+You want to be as specific as possible, from pinpointing a specific position you want to have within the defined period, to identifying which field you want to focus on, and to even roughly defining what kind of work you hope to be doing in that timeframe. So, the best answers always showcase what career trajectory you want to take. This is why it is important to remember to give an answer that is realistic. If a candidate comes in and says that he wants to be a Senior Manager within a year, that's unrealistic! However, if you say that within a year, you'd like to have led a team through delivery of at least two projects in your area of expertise, that's more realistic.
+
+The last question you may be asked is if you have any questions that you would like to ask. Typically speaking, people tend to ask when they can expect a reply. That isn't a bad thing to ask but it's also not the best thing to ask either. It ends the interview on a selfish note. The interviewer might think that you're only interested in hearing back and not the company itself. Another thing candidates often do is ask for feedback immediately. Or they say, "Is there anything else I can do that will help me stand out from the other candidates?" We don't recommend asking this question first because it may come across as too desperate. You can ask it as the third question but not as the first.
+
+Firstly, we recommend asking 2-3 questions that are focused on showing that you're genuinely interested in the company. This means you want to create the impression that you want to know what's bothering you so that you can help the company. So, you want to talk to the company, not at it. That means you want to frame a question like, "What's the main challenge I'll be expected to help solve?" Alternatively, you can show your genuine interest by asking, "How will my performance be measured in the first 90 days?" If you're curious about the company environment, another thing you can ask the interviewer is, "What's your favorite thing about this company? What keeps you coming back here every day?" Remember! An interview is a two-way street. You're judging if you want to work with this company as much as they are trying to figure out if you're a good cultural fit.
+
+There are a ton of other questions you can ask at the end of an interview. Here are some more examples:
+
+---
+
+### Company-Specific Questions
+
+These questions relate to the organization itself and are fine to ask in almost any interview.
+
+- What makes working at this company special?
+- How do you see this company/industry evolving in the next 5 to 10 years?
+- I know one of the company's values is [blank]. How is that defined and demonstrated here at the company?
+- What qualities and attributes make for a successful employee here?
+
+---
+
+### Role-Specific Questions
+
+These questions are specific to the position you're interviewing for so be careful when asking them and research as much as you can about the role beforehand. For example, asking about the day-to-day responsibilities of a role is appropriate for a consulting position but would seem out of place during an interview for a sales job, where the primary responsibilities involve reaching out to potential clients and selling the company's products.
+
+- What are the day-to-day responsibilities of this job?
+- What is the most challenging aspect of the job?
+- What does the ideal candidate for this role look like?
+
+---
+
+### Wrap-Up Questions
+
+These are great questions to ask as the interview is winding down though again, some are more appropriate for certain interviews than others. For example, if you're interviewing for a junior role, the question about next steps should always be directed to the person who set up your interview in the first place.
+
+- What are the next steps? What is your timeline for making a decision and when should I expect to hear back from you?
+- Is there anything else I can provide you with to help you with your decision?
+- What's been your best moment at this company?
