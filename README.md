@@ -4,11 +4,11 @@
 
 <p align="center">Roughly speaking, we can divide interview questions into three main categories: behavioral questions, technical questions, and curveballs. 
   
-> 🤝 The goal of <i>behavioral questions</i> is to gauge your skills, abilities, and personality. They want to see how your past behavior reflects and predicts your future behavior. Ultimately, it’s about determining a cultural fit.</p>
+> 🤝 The goal of <i>behavioral questions</i> is to gauge your skills, abilities, and personality. They want to see how your past behavior reflects and predicts your future behavior. Ultimately, it’s about determining a cultural fit.
   
-> 🛠️ <i>Techncial questions</i> are used to judge your technical knowledge and expertise. Do you have the necessary foundation to solve highly complex problems on the spot or not?</p>
+> 🛠️ <i>Techncial questions</i> are used to judge your technical knowledge and expertise. Do you have the necessary foundation to solve highly complex problems on the spot or not?
   
-> 🎲 And <i>curveballs</i> are surprise questions through which the company wants to see how you react to a sudden situation.</p>
+> 🎲 And <i>curveballs</i> are surprise questions through which the company wants to see how you react to a sudden situation.
 
 <p align="center">Let’s go over some common behavioral, technical, and curveball questions you can expect in an interview.</p>
 
