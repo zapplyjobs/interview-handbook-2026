@@ -1,3 +1,5 @@
+![Interview Handbook 2026 - Illustration of people in an interview.](images/rss-heading.png)
+
 # <p align="center">Interview Handbook 2026</p>
 
 <p align="center">Roughly speaking, we can divide interview questions into three main categories: behavioral questions, technical questions, and curveballs. 
