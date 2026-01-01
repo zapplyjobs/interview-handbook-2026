@@ -1,4 +1,4 @@
-![Interview Handbook 2026 - Illustration of people in an interview.](images/rss-heading.png)
+![Interview Handbook 2026 - Illustration of people in an interview.](images/ihb-heading.png)
 
 # <p align="center">Interview Handbook 2026</p>
 
@@ -54,6 +54,8 @@
 
 ## Behavioral Questions
 
+![Behavioral Questions - Illustration of people in an interview.](images/behavioral-questions.png)
+
 Interviewers ask behavioral questions to know about your past work and see if you have the skills needed for the job. They assume that your behavior in the past reflects how you will behave in the future. 
 
 To answer these questions, use the <i>CAR (challenge, action, result)</i> approach. When describing a past accomplishment, provide a challenge you were facing, the action you took to solve it, and the end result you achieved. 
@@ -63,6 +65,8 @@ The following behavioral questions may be asked to discern your personality and 
 ---
 
 ### Teamwork
+
+![Working well with others under pressure.](images/bq-teamwork.png)
 
 For questions like these, you want a story that illustrates your ability to work with others under challenging circumstances. Think team conflict, difficult project constraints, or clashing personalities.
 
@@ -89,6 +93,8 @@ Mention an experience that showcases your ability to work in a team. You can des
 
 ### Client-Facing Skills
 
+![Delivering excellent customer service.](images/bq-client-facing-skills.png)
+
 If the role you're interviewing for works with clients, definitely be ready for one of these. Find an example of a time where you successfully represented your company or team and delivered excellent client service.
 
 - Have you handled a difficult situation with a client or vendor? How?
@@ -112,6 +118,8 @@ You can mention a time when you resolved a difficult situation with a client and
 ---
 
 ### Ability to Adapt
+
+![Handling change and challenges.](images/bq-ability-to-adapt.png)
 
 Think of a recent work crisis you successfully navigated. Even if your navigation didn't feel successful at the time, find a lesson or silver lining you took from the situation.
 
@@ -187,6 +195,8 @@ While mentioning a project, be concise and specific, and explain your role and a
 
 ### Time Management Skills
 
+![Juggling priorities and deadlines.](images/bq-time-management.png)
+
 Talk about a time you juggled multiple responsibilities, organized it all (perfectly), and completed everything before the deadline.
 
 - Did you ever postpone making a decision? Why?
@@ -210,6 +220,8 @@ Describe a time when you completed a task perfectly within the expected deadline
 ---
 
 ### Communication Skills
+
+![Getting your point across effectively.](images/bq-communication.png)
 
 You probably won't have any trouble thinking of a story for communication questions, since it's not only part of most jobs; it's part of everyday life. However, the thing to remember here is to also talk about your thought process or preparation.
 
@@ -235,6 +247,8 @@ Give examples where you got your point across effectively, listened carefully, o
 ---
 
 ### Motivation and Values
+
+![What drives you and why.](images/bq-motivation.png)
 
 A lot of seemingly random interview questions are actually ways to learn more about what motivates you. Your response would ideally address this directly even if the question wasn't explicit about it.
 
@@ -366,6 +380,8 @@ The best way to answer any behavioral question is with an anecdote. Given the fa
 
 ## Technical Questions
 
+![Technical Questions - Illustration of people working on technical duties.](images/technical-questions.png)
+
 Employers are interested in your industry expertise and how you approach problems; their technical questions are designed to identify your thought process. Below are common technical questions for entry-level software engineers:
 
 **🧱 Data Structures & Algorithms**
@@ -422,6 +438,8 @@ You can research the most common technical questions that interviewers ask in yo
 
 ## Curveball Questions
 
+![Curveball Questions - Illustration of people confused and wondering.](images/curveball-questions.png)
+
 Curveball questions are surprise/trick questions that are meant to see how you tackle difficult and sudden situations. They can be tough questions that make you hesitate to share the whole truth out of fear of creating a poor image or they can be utterly random questions meant to throw you off guard. The key point is that you shouldn't be afraid of them. The way to answer curveball questions is to not jump at an answer since interviewers are looking at the quality of your thinking. You want to present the facts in a straightforward fashion and then turn the situation around to demonstrate growth.
 
 For example, one of the most common curveball/tough questions is <i>"What is your weakness?"</i> A common error people make is saying <i>"I don't have any weakness."</i> This is categorically false because we're human. We all have weaknesses. So, saying this implies you don't want to share your true weakness and you're playing defensive. Another common error is presenting a "fake" weakness. It won't be a true weakness. For example, if you say your weakness is being a perfectionist, that raises the question of how? How is being a perfectionist your weakness? If you fail to present your case adequately, then you've failed to answer the question appropriately.
@@ -435,6 +453,8 @@ The way to answer curveball questions is to not jump at an answer since intervie
 ---
 
 ### Questions that Put Interviewees at Ease
+
+![Show creativity and personality.](images/cq-questions-that-put-interviewees-at-ease.png)
 
 - If you could have one superpower, what would you choose?
 - If you could be a kitchen utensil, what would you be and why?
@@ -455,6 +475,8 @@ These questions are aimed at identifying your creativity. There are no "correct"
 ---
 
 ### Questions that Self-Promote
+
+![Market yourself without sounding entitled.](images/cq-questions-that-self-promote.png)
 
 - Why should we hire you instead of the other people who applied for this job?
 - If you owned this company what would you change?
@@ -492,6 +514,8 @@ Besides your skills, these questions are also asked to determine your character.
 
 ### Questions that are Nearly Impossible to Answer
 
+![Showcase poise and problem-solving.](images/cq-questions-nearly-impossible-to-answer.png)
+
 - How many windows are in Manhattan?
 - How would you sell ice cream in Alaska?
 - Suppose you had $2,000 and needed to double it in 24 hours, what would you do?
@@ -517,6 +541,8 @@ And finally, if there's any question that stumps you and you can't figure out an
 ---
 
 ### Questions Regarding Office Situations
+
+![Navigate workplace dynamics.](images/cq-questions-regarding-office-situations.png)
 
 - Tell me about a time when you disagreed with your coworkers about the next steps in a project.
 - When was the last time you were in a fight with a coworker?
@@ -555,6 +581,8 @@ You might feel the urge to say you haven't encountered this type of situation. H
 
 ### Personal and Revealing Questions
 
+![Share what you're passionate about.](images/cq-personal-and-revealing-questions.png)
+
 - What's your favorite website?
 - When have you been happiest in your life?
 - What's the best trip you've ever taken?
@@ -588,6 +616,8 @@ These questions are also used to see how you get out of a difficult situation. Y
 
 ## End-of-Interview Questions
 
+![End-of-Interview Questions - Illustration of people wrapping up an interview.](images/end-of-interview-questions.png)
+
 At the end of an interview, candidates are typically asked where do they see themselves in one, five, or ten years. You want to give a specific answer instead of a vague one like, <i>"I would like to work in a company where I can use my strengths to drive growth and grow my career."</i> That doesn't tell the recruiter anything specific about your goals or what you've got planned for your career path.
 
 You want to be as specific as possible, from pinpointing a specific position you want to have within the defined period, to identifying which field you want to focus on, and to even roughly defining what kind of work you hope to be doing in that timeframe. So, the best answers always showcase what career trajectory you want to take. This is why it is important to remember to give an answer that is realistic. If a candidate comes in and says that he wants to be a Senior Manager within a year, that's unrealistic! However, if you say that within a year, you'd like to have led a team through delivery of at least two projects in your area of expertise, that's more realistic.
@@ -602,6 +632,8 @@ There are a ton of other questions you can ask at the end of an interview. Here 
 
 ### Company-Specific Questions
 
+![Show genuine interest in the organization.](images/eq-company-specific-questions.png)
+
 These questions relate to the organization itself and are fine to ask in almost any interview.
 
 - What makes working at this company special?
@@ -613,6 +645,8 @@ These questions relate to the organization itself and are fine to ask in almost 
 
 ### Role-Specific Questions
 
+![Understand what you're signing up for.](images/eq-role-specific-questions.png)
+
 These questions are specific to the position you're interviewing for so be careful when asking them and research as much as you can about the role beforehand. For example, asking about the day-to-day responsibilities of a role is appropriate for a consulting position but would seem out of place during an interview for a sales job, where the primary responsibilities involve reaching out to potential clients and selling the company's products.
 
 - What are the day-to-day responsibilities of this job?
@@ -622,6 +656,8 @@ These questions are specific to the position you're interviewing for so be caref
 ---
 
 ### Wrap-Up Questions
+
+![Close strong and get next steps.](images/eq-wrap-up-questions.png)
 
 These are great questions to ask as the interview is winding down though again, some are more appropriate for certain interviews than others. For example, if you're interviewing for a junior role, the question about next steps should always be directed to the person who set up your interview in the first place.
 
