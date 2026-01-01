@@ -664,3 +664,7 @@ These are great questions to ask as the interview is winding down though again, 
 - What are the next steps? What is your timeline for making a decision and when should I expect to hear back from you?
 - Is there anything else I can provide you with to help you with your decision?
 - What's been your best moment at this company?
+
+---
+
+<p align="center"><b>Found this helpful? Give it a ⭐ to support Zapply!</b></p>
