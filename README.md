@@ -707,6 +707,10 @@ These are great questions to ask as the interview is winding down though again, 
 
 ## More Resources
 
+![Jobs and templates in our other repos.](images/more-resources.png)
+
+Check out our other repos for jobs and free resources:
+
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
   &nbsp;&nbsp;
