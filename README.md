@@ -40,7 +40,7 @@ Explore Zapply's website and check out:
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://zapply.jobs/"><img src="images/zapply-button-2.png" alt="Visit Our Website" width="600"></a>
+  <a href="https://zapply.jobs/?ref=github"><img src="images/zapply-button-2.png" alt="Visit Our Website" width="600"></a>
 </p>
 
 ---
